@@ -1,2 +1,2 @@
-# lab6Fixed
-DIG3480 Lab 6 Platformer Thing
+# JSPlatformer
+JS Platformer for DIG 3480C
